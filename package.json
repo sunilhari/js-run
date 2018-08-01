@@ -4,7 +4,7 @@
   "description": "Run any javascript code in command line ",
   "main": "index.js",
   "bin": {
-    "js": "cli.js execute"
+    "js": "cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

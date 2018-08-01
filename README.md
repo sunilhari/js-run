@@ -3,7 +3,7 @@
 Execute javascript code from command line without having to go inside node interpreter.Perk is that all these would be platform independent
 
 ```
-  npm install -g js-run
+  npm install -g @sunilhari/js-run
 ```
 
 ## Usage

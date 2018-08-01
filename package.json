@@ -1,5 +1,5 @@
 {
-  "name": "@sunilhari/js-run",
+  "name": "js-on-cli",
   "version": "1.0.0",
   "description": "Run any javascript code in command line ",
   "main": "index.js",

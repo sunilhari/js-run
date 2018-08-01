@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+"use strict";
+
 const program = require("commander");
 const nodeVm = require("vm");
 const Babel = require("@babel/standalone");

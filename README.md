@@ -12,6 +12,18 @@ This is a command line utility to execute javsacript
 
  Example
 -------
-js "Date.now()"
+```
+     js execute "Date.now()"
 
      1533099428679
+     
+      //multline code 
+      
+     $ js execute "let x;
+      > let y = 10;
+      > x = y+1;
+      > "
+
+      11
+
+```

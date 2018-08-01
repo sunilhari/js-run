@@ -1,9 +1,9 @@
 # JS-RUN
 
-Execute javascript code from command line without having to go inside node interpreter.
+Execute javascript code from command line without having to go inside node interpreter.Perk is that all these would be platform independent
 
 ```
-  npm install js-run
+  npm install -g js-run
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ This is a command line utility to execute javsacript
      js execute "Date.now()"
 
      1533099428679
-     
+
       //multline code 
       
      $ js execute "let x;
